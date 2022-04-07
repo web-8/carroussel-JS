@@ -1,0 +1,18 @@
+header{
+    position: relative;
+    margin: auto;
+}
+header>div{
+    position: absolute;
+    top: 0%;
+    right: 15%;
+    width: 70%;
+    margin: auto;
+    opacity: 0;
+}
+header>div>img{
+    width: 100%;
+}
+.img1{
+    opacity: 1;
+}
